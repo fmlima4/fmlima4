@@ -6,7 +6,7 @@
 - 👀 I’m currently working as PHP Backend Developer 
 - 🌱 I’m currently learning about fundamentals like clean code, SOLID, object calisthenics...
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/felipe-miranda-de-lima-a45163b9/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmlima4@outlook.com)](mailto:fmlima4@gmail.com)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmlima4@outlook.com)](mailto:fmlima4@gmail.com), [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipemiranda.dev.br/), [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5554981403134&text=Hello%20Felipe...)
 
 
 
