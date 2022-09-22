@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmlima4" alt="fmlima4" /> </p>
 
-- 👀 I’m currently working as PHP Backend Developer 
+- 👀 I’m currently working as nodeJS Developer 
 - 🌱 I’m currently learning about fundamentals like clean code, SOLID, object calisthenics...
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/felipe-miranda-de-lima-a45163b9/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fmlima4@outlook.com)](mailto:fmlima4@gmail.com), [![Portifolio](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://felipemiranda.dev.br/), [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5554981403134&text=Hello%20Felipe...)
